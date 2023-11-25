@@ -50,12 +50,16 @@ endmodule
 ```
 ## OUUTPUT:
 ## Truthtable:
-HALF SUBTRACTOR:![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/8c7c2108-82eb-4d03-a164-766a02b4e78e)
-FULL SUBTRACTOR:![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/1b8921ff-558d-44fe-bde0-4678d0391978)
+HALF SUBTRACTOR:
+![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/8c7c2108-82eb-4d03-a164-766a02b4e78e)
+FULL SUBTRACTOR:
+![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/1b8921ff-558d-44fe-bde0-4678d0391978)
 
 ## RTL realization:
-HALF SUBTRACTOR:![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/6c983604-445d-4648-890c-48740414f01e)
-FULL SUBTRACTOR:![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/a4f49bde-4083-4c14-b74f-2ce04c24e7ab)
+ HALF SUBTRACTOR:
+![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/6c983604-445d-4648-890c-48740414f01e)
+FULL SUBTRACTOR:
+![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/a4f49bde-4083-4c14-b74f-2ce04c24e7ab)
 ## Timing diagram:
 HALF SUBTRACTOR:![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/53f37e09-eb35-4e29-909e-25a3eeb72a0e)
 FULL SUBTRACTOR:![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/cdfd6a13-e4af-4cd1-b9fa-8c82df0e8c21)
