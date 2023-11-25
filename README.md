@@ -46,7 +46,8 @@ input a,b,bin;
 output diff,borr;
 assign diff=a^b^bin;
 assign borr=((~a)&b)|(b&bin)|((~a)&bin);
-endmodule```
+endmodule
+```
 ## HALF SUBTRACTOR:
 ![hs code](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/933034c2-54bd-49b1-9fb3-1436cec8e08d)
 ## HALF SUBTRACTOR OUTPUT:
