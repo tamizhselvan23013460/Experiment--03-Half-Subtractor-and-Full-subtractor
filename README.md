@@ -56,9 +56,9 @@ FULL SUBTRACTOR:
 ![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/1b8921ff-558d-44fe-bde0-4678d0391978)
 
 ## RTL realization:
- HALF SUBTRACTOR:
+## HALF SUBTRACTOR:
 ![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/6c983604-445d-4648-890c-48740414f01e)
-FULL SUBTRACTOR:
+## FULL SUBTRACTOR:
 ![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/a4f49bde-4083-4c14-b74f-2ce04c24e7ab)
 ## Timing diagram:
 HALF SUBTRACTOR:![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/53f37e09-eb35-4e29-909e-25a3eeb72a0e)
