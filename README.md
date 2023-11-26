@@ -57,11 +57,12 @@ endmodule
 ## RTL realization:
 ## HALF SUBTRACTOR:
 ![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/6c983604-445d-4648-890c-48740414f01e)
-
 ## FULL SUBTRACTOR:
 ![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/a4f49bde-4083-4c14-b74f-2ce04c24e7ab)
 ## Timing diagram:
-## HALF SUBTRACTOR:![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/53f37e09-eb35-4e29-909e-25a3eeb72a0e)
-## FULL SUBTRACTOR:![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/cdfd6a13-e4af-4cd1-b9fa-8c82df0e8c21)
+## HALF SUBTRACTOR:
+![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/53f37e09-eb35-4e29-909e-25a3eeb72a0e)
+## FULL SUBTRACTOR:
+![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/cdfd6a13-e4af-4cd1-b9fa-8c82df0e8c21)
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
