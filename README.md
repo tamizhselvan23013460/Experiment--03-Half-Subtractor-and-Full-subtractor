@@ -48,7 +48,7 @@ assign diff=a^b^bin;
 assign borr=((~a)&b)|(b&bin)|((~a)&bin);
 endmodule
 ```
-## OUUTPUT:
+## OUTPUT:
 ## Truthtable:
 ## HALF SUBTRACTOR:
 ![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/8c7c2108-82eb-4d03-a164-766a02b4e78e)
