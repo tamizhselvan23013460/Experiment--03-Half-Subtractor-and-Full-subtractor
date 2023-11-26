@@ -57,6 +57,7 @@ endmodule
 ## RTL realization:
 ## HALF SUBTRACTOR:
 ![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/6c983604-445d-4648-890c-48740414f01e)
+
 ## FULL SUBTRACTOR:
 ![image](https://github.com/dharshan7200/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138850116/a4f49bde-4083-4c14-b74f-2ce04c24e7ab)
 ## Timing diagram:
